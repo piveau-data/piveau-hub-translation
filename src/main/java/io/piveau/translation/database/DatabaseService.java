@@ -13,13 +13,11 @@ import io.vertx.ext.jdbc.JDBCClient;
 
 import java.util.HashMap;
 
-@ProxyGen   // triggert Code Generation
+@ProxyGen
 @VertxGen
 public interface DatabaseService {
   String SERVICE_ADDRESS = "io.piveau.translation.database.queue";
 
-  // akzeptierte Parameter-Objekte
-  // Primitive Java Typen, Json Object oder Json Array, Enumerationen oder eine java.util collection (List / Set / Map)
   @Fluent
   DatabaseService createTranslationRequest(Handler<AsyncResult<Void>> resultHandler);
 
