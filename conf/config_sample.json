@@ -1,0 +1,21 @@
+{
+  "translation_service": {
+    "port": 8080
+  },
+  "database": {
+    "jdbc_driver": "org.postgresql.Driver",
+    "jdbc_url": "jdbc:postgresql://localhost:5432/database_name",
+    "jdbc_max_pool_size": 30,
+    "user": "postgres",
+    "password": "",
+    "sql_queries": "doc/db-queries.properties"
+  },
+  "e_translation": {
+    "user": "",
+    "application": "",
+    "password": "",
+    "e_translation_url": "https://webgate.ec.europa.eu/etranslation/si/translate",
+    "callback_url": "https://www.europeandataportal.eu/translation-service",
+    "simultanous_translations": 1
+  }
+}

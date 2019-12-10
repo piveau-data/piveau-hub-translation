@@ -1,0 +1,102 @@
+{
+  "id": "test-dataset+test-catalog",
+  "original_language": "en",
+  "translation": {
+    "hr": {
+      "title": "﻿Primjer Dataset za 2.",
+      "description": "﻿To je primjer Dataset podataka."
+    },
+    "bg": {
+      "title": "﻿Пример набор от данни 2",
+      "description": "﻿Това е пример за набор от данни"
+    },
+    "cs": {
+      "title": "﻿Příklad datové sady 2",
+      "description": "﻿Jedná se o příklad datové sady"
+    },
+    "fr": {
+      "title": "﻿Exemple de données 2",
+      "description": "﻿Il s’agit d’un jeu de données."
+    },
+    "de": {
+      "title": "﻿Beispiel Datensatz 2",
+      "description": "﻿Dies ist ein Beispiel Dataset"
+    },
+    "lt": {
+      "title": "﻿2 m. duomenų rinkinio pavyzdys",
+      "description": "﻿Duomenų rinkinys."
+    },
+    "fi": {
+      "title": "﻿Esimerkki: tietoaineisto 2",
+      "description": "﻿Tämä on esimerkiksi datajoukko."
+    },
+    "el": {
+      "title": "﻿Παράδειγμα συνόλου δεδομένων 2",
+      "description": "﻿Αυτό είναι ένα παράδειγμα δεδομένων δεδομένων"
+    },
+    "hu": {
+      "title": "﻿Példa: datased 2",
+      "description": "﻿Példa erre az adatkészlet"
+    },
+    "nb": {
+      "title": "﻿Eksempel datasett 2",
+      "description": "﻿Dette er et eksempel på datasett."
+    },
+    "et": {
+      "title": "﻿Näide andmekogumi 2 kohta",
+      "description": "﻿See on näide andmekogumi kohta."
+    },
+    "pt": {
+      "title": "﻿Exemplo de Conjunto de dados 2",
+      "description": "﻿Um exemplo de um conjunto de dados"
+    },
+    "lv": {
+      "title": "﻿Piemērs. datu kopa 2",
+      "description": "﻿Šis ir piemērs datu kopai."
+    },
+    "nl": {
+      "title": "﻿Voorbeeld Dataset 2",
+      "description": "﻿Dit is bijvoorbeeld Dataset."
+    },
+    "mt": {
+      "title": "﻿Eżempju tas-Sett ta’ Data 2",
+      "description": "﻿Dan huwa eżempju tas-Sett ta’ Data"
+    },
+    "pl": {
+      "title": "﻿Przykład zbioru danych 2",
+      "description": "﻿Jest to przykład zbioru danych"
+    },
+    "ro": {
+      "title": "﻿Exemplu de set de date 2",
+      "description": "﻿Acesta este un exemplu de set de date."
+    },
+    "sl": {
+      "title": "﻿Primer nabora podatkov 2",
+      "description": "﻿Gre za primer nabora podatkov"
+    },
+    "sk": {
+      "title": "﻿Príklad množiny údajov 2",
+      "description": "﻿To je napríklad množina údajov."
+    },
+    "sv": {
+      "title": "﻿Exempel Dataset 2",
+      "description": "﻿Det här är en databas"
+    },
+    "es": {
+      "title": "﻿Ejemplo de datos 2",
+      "description": "﻿Se trata de un conjunto de datos"
+    },
+    "da": {
+      "title": "﻿Eksempel Dataset 2",
+      "description": "﻿Dette er et eksempel på et datasæt"
+    },
+    "ga": {
+      "title": "﻿Sampla de Tacar sonraí 2",
+      "description": "﻿Tá an Tacar sonraí seo mar shampla"
+    },
+    "it": {
+      "title": "﻿Esempio di serie 2",
+      "description": "﻿Si tratta di un esempio di set di dati"
+    }
+  }
+}

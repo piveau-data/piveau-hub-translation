@@ -1,0 +1,43 @@
+{
+  "original_language": "en",
+  "languages": [
+    "de",
+    "fi",
+    "pt",
+    "bg",
+    "lt",
+    "hr",
+    "lv",
+    "fr",
+    "hu",
+    "sk",
+    "sl",
+    "ga",
+    "sv",
+    "el",
+    "mt",
+    "it",
+    "es",
+    "et",
+    "cs",
+    "nb",
+    "pl",
+    "da",
+    "ro",
+    "nl"
+  ],
+  "callback": {
+    "url": "http://7934cefc.ngrok.io/translation",
+    "method": "POST",
+    "payload": {
+      "id": "test-dataset+test-catalog"
+    },
+    "headers": {
+      "Authorization": "your-api-key"
+    }
+  },
+  "data_dict": {
+    "title": "Example Dataset 2",
+    "description": "This is an example Dataset"
+  }
+}
