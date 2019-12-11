@@ -18,8 +18,8 @@ Requirements:
 * Openjdk 12
 
 ```bash
-git clone git@gitlab.fokus.fraunhofer.de:viaduct/piveau-translation.git
-cd piveau-translation
+git clone git@github.com:piveau-data/piveau-hub-translation.git
+cd piveau-hub-translation
 mvn install
 ```
 ## Build with Docker
